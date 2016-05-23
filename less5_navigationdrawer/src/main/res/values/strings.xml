@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Less5_NavigationDrawer</string>
+    <string name="nav_menu_item_home">Home</string>
+    <string name="nav_menu_item_contacts">Contacts</string>
+    <string name="item1">Item 1</string>
+    <string name="item2">Item2</string>
+</resources>

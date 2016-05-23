@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
-    tools:context="com.slavyanin.example.less4_toolbarwidget.MainActivity">
+    tools:context="com.slavyanin.example.less5_toolbarwidget.MainActivity">
 
     <include
         android:id="@+id/toolbar"

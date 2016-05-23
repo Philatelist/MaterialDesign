@@ -1,4 +1,4 @@
-package com.slavyanin.example.less4_toolbarwidget;
+package com.slavyanin.example.less5_toolbarwidget;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

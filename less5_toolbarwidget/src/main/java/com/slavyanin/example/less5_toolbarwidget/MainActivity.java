@@ -1,4 +1,4 @@
-package com.slavyanin.example.less4_toolbarwidget;
+package com.slavyanin.example.less5_toolbarwidget;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
